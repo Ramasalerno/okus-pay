@@ -1,0 +1,19 @@
+.imagenSoporte{
+    width: 100%;
+    display: flex;
+}
+
+.imagenSoporte img{
+    width: 100%;
+}
+
+.containerImagenSoporte {
+    flex-direction: column;
+}
+
+
+/* @media (max-width: 600px) {
+    .imagenBannerAmazonCuerpo img{
+        display: none;
+    }
+} */

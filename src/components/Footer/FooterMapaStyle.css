@@ -1,0 +1,66 @@
+.footer_1{
+background-color: #e6e6e6;
+color: white;
+text-align: center;
+padding: 50px;
+}
+
+.mapaDvg {
+    width: 100%;
+    height: 500px;
+}
+
+.footer_1 h2 {
+font-size: 38px;
+color: #808080;
+line-height: 48px;
+}
+
+
+@media (max-width: 800px ){
+
+.footer_1 {
+    padding: 10px;
+}
+
+.footer_1 img {
+    width: 50%;
+}
+
+.footer_1 h3 {
+    font-size: 20px;
+    margin-top: 10px !important;
+}
+
+.footer_1 h2 {
+    font-size: 22px;
+    color: #808080;
+    line-height: 48px;
+}
+
+}
+
+.botonNewsletter {
+background-color: var(--primary) !important;
+border-radius: 20px;
+border: 1px solid white;
+font-weight: 500;
+}
+
+.botonNewsletter:hover {
+border-radius: 10px;
+border: 1px solid black;
+transition: 1s all;
+}
+
+.footer_4{
+background-color: #222222;
+text-align: center;
+padding: 20px;
+color: white;
+}
+
+.footer_4 a{
+padding: 15px;
+}
+

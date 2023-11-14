@@ -1,0 +1,133 @@
+:root {
+    --primary: #1A2A36;
+    --secondary: #588CB5;
+    --terciary: #2F4B60;
+    --cuarto: #446B8B;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Raleway:wght@600&display=swap');
+
+.setLogo {
+  width: 80% !important;
+}
+
+.linkeado {
+  font-size: 15px;
+  font-weight: bold;
+  background: transparent;
+  border: none;
+  padding: 1em 1.5em;
+  color: var(--secondary) !important;
+  text-transform: uppercase;
+  position: relative;
+  transition: .5s ease;
+  text-decoration: none;
+}
+
+.linkeado::before, .servicios::before{
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 0;
+  background-color:var(--secondary);
+  transition: .5s ease;
+}
+
+.linkeado:hover{
+  color: #1e1e2b;
+  transition-delay: .5s;
+  text-decoration: none;
+}
+
+.linkeado:hover::before {
+  width: 100%;
+}
+
+.linkeado::after, .servicios::after{
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 0;
+  width: 100%;
+  transition: .4s ease;
+  z-index: -1;
+}
+
+.dropdown-menu.show {
+  background: #212529;
+}
+
+.dropdown-item {
+  color: white !important;
+}
+
+.dropdown-item:hover {
+  background-color:#f2a11e !important;
+  overflow: hidden;
+}
+
+.navbar-light .navbar-toggler {
+  background-color: white;
+}
+
+.navbar-toggler.collapsed {
+  color: white;
+}
+
+.element.style {
+  height: 100vh;
+}
+
+.setLogo {
+  width: 50%;
+}
+
+
+.form-control{
+  width: 60% !important;
+  margin-left: 20% !important;
+}
+
+
+.botonBusqueda{
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+}
+
+@media (min-width: 300px) and (max-width: 800px ){
+  .brandNSXgamer {
+    display: none;
+  }
+  .barra {
+    border-bottom: 2px solid yellow;
+  }
+}
+
+
+body.swal2-shown > [aria-hidden="true"] {
+  transition: 0.1s filter;
+  filter: blur(10px);
+}
+
+.barra{
+  background-color: var(--primary) !important;
+  border-bottom: none;
+}
+
+.container-fluid {
+    flex-direction: row !important;
+}
+
+@media (min-width: 992px) {
+
+  .colt {
+      display: flex!important;
+      flex-basis: auto!important;
+      flex-direction: column!important;
+      align-content: flex-end!important;
+      flex-wrap: wrap!important;
+    }
+}

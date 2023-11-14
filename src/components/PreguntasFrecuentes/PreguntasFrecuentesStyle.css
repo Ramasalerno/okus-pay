@@ -1,0 +1,61 @@
+.imagenFont3:before {
+    content: "\f196";
+    font-size: 20px;
+    margin-right: 8px;
+    color: #f2a11e;
+    font-family: "Font Awesome 5 Free";
+}
+
+.textFrec {
+    font-size: 25px;
+    text-align: left;
+}
+
+.flexPreguntas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pregFrec {
+    text-align: justify !important;
+    width: 80%;
+}
+
+.visorPdf {
+    text-decoration: none;
+    color: var(--primary);
+}
+
+.visorPdf:hover {
+    text-decoration: none;
+    color: var(--secondary);
+}
+
+.tituloPop3 {
+    color: var(--secondary);
+    font-size: 22px;
+}
+
+
+@media (max-width: 660px) {
+    .textFrec {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .pregFrec {
+        text-align: justify !important;
+        width: 95%;
+    }
+}
+
+.flexPreguntasTitulo {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 40px;
+    color: var(--primary);
+    line-height: 48px;
+    border-bottom: 3px solid var(--secondary);
+  }
