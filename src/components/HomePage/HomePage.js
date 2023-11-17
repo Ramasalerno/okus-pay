@@ -1,5 +1,4 @@
 import React from 'react';
-import { FlexMarcas } from '../FlexMarcas/FlexMarcas';
 import { Carrousel } from '../Carrousel/Carrousel';
 
 import { BannerBodySoporte } from '../BannerBodySoporte/BannerBodySoporte';

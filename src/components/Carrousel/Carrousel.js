@@ -13,13 +13,13 @@ export const Carrousel = () => {
 					<Link to="/">
 						<img
 							className="d-block w-100"
-							src={"/imagenes/banner/bannerSlider1.png"}
+							src={"/imagenes/banner/bannerSlider1.jpg"}
 							alt="imagen slider"
 						/>
 					</Link>
 				</Carousel.Item>
 
-				<Carousel.Item>
+				{/* <Carousel.Item>
 					<Link to="/">
 						<img
 							className="d-block w-100"
@@ -37,7 +37,7 @@ export const Carrousel = () => {
 							alt="imagen slider"
 						/>
 					</Link>
-				</Carousel.Item>
+				</Carousel.Item> */}
 
 			</Carousel>
 			{/* <div style={{height:"30% !important"}}>

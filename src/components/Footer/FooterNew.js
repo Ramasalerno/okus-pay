@@ -21,7 +21,7 @@ export const FooterNew = () => {
                 </div>
                 
 
-            <div className=" col-sm-4 col-md  col-6 col">
+            {/* <div className=" col-sm-4 col-md  col-6 col">
                 <h5 className="headin5_amrc col_white_amrc pt2">Servicios</h5>
                 <ul className="footer_ul_amrc">
                 <li><Link to="/consultoria">Consultoría</Link></li>
@@ -31,7 +31,7 @@ export const FooterNew = () => {
                 <li><Link to="/virtualizacionServidores">Virtualizacion de Servidores</Link></li>
                 <li><Link to="/servidoresDedicados">Servidores Dedicados</Link></li>
                 </ul>
-            </div>
+            </div> */}
             
 
 
