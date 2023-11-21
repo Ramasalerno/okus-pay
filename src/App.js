@@ -6,6 +6,7 @@ import { Contacto } from './components/pages/Contacto/Contacto';
 import { PageNotFound } from './components/pages/PageNotFound/PageNotFound';
 import ScrollToTop from './components/scrollToTop/scrollToTop';
 import { SobreNosotros } from './components/pages/SobreNosotros/SobreNosotros';
+import { PreguntasFrecuentes } from './components/PreguntasFrecuentes/PreguntasFrecuentes';
 
 function App() {
   return (
@@ -19,6 +20,8 @@ function App() {
               <Route path="/PageNotFound" element= {<PageNotFound/> }/>
               <Route path="/nosotros" element= {<SobreNosotros/> }/>
               <Route path="/contacto" element= {<Contacto/> }/>
+              <Route path="/preguntas_frecuentes" element= {<PreguntasFrecuentes/> }/>
+
             </Routes>
         <HomeFooter/>
         </ScrollToTop>

@@ -8,6 +8,7 @@ import { BannerBody } from '../BannerBody/BannerBody';
 import { ServiciosCard } from '../ServiciosCard/ServiciosCard';
 import { Bienvenida } from '../Bienvenida/Bienvenida';
 import { PreguntasFrecuentes } from '../PreguntasFrecuentes/PreguntasFrecuentes';
+import { PreguntasFrecBoton } from '../PreguntasFrecuentes/PreguntasFrecBoton';
 
 export const HomePage = () => {
   return (
@@ -19,7 +20,8 @@ export const HomePage = () => {
         {/* <BannerBody/> */}
         {/* <ServiciosCard/> */}
         <BannerBodySoporte/>
-        <PreguntasFrecuentes/>
+        <PreguntasFrecBoton/>
+        {/* <PreguntasFrecuentes/> */}
         {/* <FlexMarcas/> */}
     </>
   )

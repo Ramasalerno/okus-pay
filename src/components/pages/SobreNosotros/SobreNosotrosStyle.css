@@ -1,3 +1,10 @@
+:root {
+    --primary: #1A2A36;
+    --secondary: #588CB5;
+    --terciary: #2F4B60;
+    --cuarto: #446B8B;
+}
+
 h1,
 h2,
 h3,
@@ -27,6 +34,19 @@ a:focus {
     -moz-transition-duration: .2s;
     -webkit-transition-duration: .2s;
     -o-transition-duration: .2s;
+}
+
+.tituloSobreNosotros{
+    color: var(--terciary);
+    font-size: 1.5rem;
+}
+
+.tituloSobreNosotros{
+    color: var(--terciary) !important;
+}
+
+.boldSobreNosotros {
+    color: var(--terciary);
 }
 
 ul {

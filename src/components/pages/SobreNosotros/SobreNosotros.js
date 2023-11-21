@@ -15,7 +15,7 @@ export const SobreNosotros = () => {
                 <AnimationOnScroll animateIn="animate__backInUp">
                 <div className="sec-title">
                   <span className="title">Sobre Nosotros!</span>
-                  <h2>
+                  <h2 className='tituloSobreNosotros'>
                     Venimos a revolucionar <br />
                     la industria de los metodos de pago
                   </h2>
@@ -24,28 +24,35 @@ export const SobreNosotros = () => {
 
                 <div className="text">
                   <p>
-                    La propuesta de <b>Okus-Pay</b> reúne los servicios de consultoría e implementación en virtualización de servidores y Hosting para Email y Sitios Web.
+                  <b className='boldSobreNosotros'>Okus-Pay</b> revoluciona la forma en que experimentamos los pagos al ofrecer una solución única: pagos biométricos sin necesidad de celulares, internet, efectivo o tarjetas de crédito. Es la respuesta completa para comercios y distribuidores, proporcionando servicios de terminal de pago y cobranzas que marcan la diferencia en la industria.
                   </p>
 
+                  <h4 className='tituloSobreNosotros'>Características Clave de Okus-Pay:</h4>
                   <p>
-                  Ayudamos a empresas en crecimiento con la necesidad de contar con la infraestructura suficiente para soportar el aumento de información, asegurar la continuidad operativa y, al mismo tiempo, facilitar la administración de los sistemas informáticos.
+                  <b className='boldSobreNosotros'>Validación con SID</b>: Okus-Pay garantiza la seguridad y la precisión al validar la información a través del sistema SID, ofreciendo una capa adicional de protección.
+                  </p>
+                  <p>
+                  <b className='boldSobreNosotros'>Accesibilidad y Facilidad:</b> La tecnología biométrica con la palma de la mano hace que los pagos sean accesibles, seguros y fáciles, proporcionando una experiencia sin igual.
                   </p>
 
+                  <h4 className='tituloSobreNosotros'>Beneficios para Comercios y Distribuidores:</h4>
                   <p>
-                  Una propuesta de servicio flexible y seguro, que permite adaptarse a los requerimientos de cada compañía; con equipamiento de última generación para sostener la dinámica del negocio y contribuir al uso eficiente de los recursos
+                  <b className='boldSobreNosotros'>Comercios de Cara al Público:</b> Obtén terminales de pago que transforman la experiencia del cliente y simplifican los procesos de cobro.
+                  </p>
+                  <p>
+                  <b className='boldSobreNosotros'>Distribuidores:</b> Participa en la revolución de pagos biométricos vendiendo terminales innovadores que están cambiando la forma en que pagamos.
                   </p>
 
-                  <p>
-                  Experiencia en la implementación y mantenimiento de tecnologías líderes. Servicio soportado por servidores y equipamiento de alta disponibilidad.
-                  </p>
+                  <h4 className='tituloSobreNosotros'>Consultoría y Capacitación Privada:</h4>
+                  <p><b className='boldSobreNosotros'>Okus-Pay</b> no solo ofrece tecnología de vanguardia, sino también servicios de consultoría y capacitación privada dirigidos por nuestro CEO, <b className='boldSobreNosotros'>Martin Anusic</b>, para garantizar que aproveches al máximo nuestra plataforma.</p>
+
+
                 </div>
                 <h5><b>Nuestros servicios</b></h5>
                 <ul className="list-style-one">
-                  <Link to="/consultoria"><li>Consultoría</li></Link>
-                  <Link to="/hosting"><li>Hosting</li></Link>
-                  <Link to="/servidoresDedicados"><li>Servidores dedicados</li></Link>
-                  <Link to="/soporteCorporativo"><li>Soporte corporativo</li></Link>
-                  <Link to="/virtualizacionServidores"><li>Virtualizacion de servidores</li></Link>
+                  <li>Consultoría en pagos Biométricos</li>
+                  <li>Beneficios para comercios y distribuidores</li>
+                  <li>Terminal de pago Biométrico</li>
                 </ul>
 
                 <div className="btn-box">

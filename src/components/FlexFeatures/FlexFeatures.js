@@ -8,7 +8,7 @@ export default function FlexFeatures() {
         <div className="bgRari">
           <div className="container">
             <header className="center btm-spacer">
-              <h2 className="mb-5 mt-5">Obtene todos estos beneficios!</h2>
+              <h2 className="mb-5 mt-5">¡Descubre la Revolución de Pago con Okus-Pay!</h2>
             </header>
             <div className="row spacer">
               <div className="col-md-4">
@@ -17,23 +17,9 @@ export default function FlexFeatures() {
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
                     <i className="fa-solid fa-flag fa-stack-1x fa-inverse dentroCirculo "></i>
                   </span>
-                  <h3 className="h3-3col mt-4">Servidores Dedicados en Argentina</h3>
+                  <h3 className="h3-3col mt-4">Tecnología Biométrica Avanzada</h3>
                   <p className="p-3col">
-                  Soporte y conectividad local.
-                  </p>
-                </div>
-                {/*<!-- center --> */}
-              </div>
-              {/*<!-- col-md-4 -->*/}
-              <div className="col-md-4">
-                <div className="center">
-                  <span className="fa-stack fa-2x">
-                    <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-rocket fa-stack-1x fa-inverse dentroCirculo"></i>
-                  </span>
-                  <h3 className="h3-3col mt-4">Discos SAS</h3>
-                  <p className="p-3col">
-                  Podrás elegir entre discos de estado sólido y HDD según tus objetivos.
+                  Descubre la revolucionaria tecnología biométrica de Okus-Pay, una experiencia de pago de último nivel y máxima seguridad. Con la identificación única de la palma de la mano, ofrecemos un método rápido, seguro y estéticamente atractivo, superando las limitaciones de otros métodos de pago.
                   </p>
                 </div>
                 {/*<!-- center --> */}
@@ -45,9 +31,23 @@ export default function FlexFeatures() {
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
                     <i className="fa-solid fa-shield fa-stack-1x fa-inverse dentroCirculo"></i>
                   </span>
-                  <h3 className="h3-3col mt-4">Seguro y confiable</h3>
+                  <h3 className="h3-3col mt-4">Seguridad sin Compromisos</h3>
                   <p className="p-3col">
-                  Máxima seguridad, uptime 99,9% de red y protección contra amenazas.
+                  A través de nuestra API de última generación, tus datos se almacenan de forma segura en una base de datos conectada a la nube. Realizamos una validación exhaustiva mediante el sistema SID, que incluye verificación de documento de identidad, vigencia y biometría facial, garantizando una seguridad incomparable.
+                  </p>
+                </div>
+                {/*<!-- center --> */}
+              </div>
+              {/*<!-- col-md-4 -->*/}
+              <div className="col-md-4">
+                <div className="center">
+                  <span className="fa-stack fa-2x">
+                    <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
+                    <i className="fa-solid fa-rocket fa-stack-1x fa-inverse dentroCirculo"></i>
+                  </span>
+                  <h3 className="h3-3col mt-4">Libertad Total de Pago</h3>
+                  <p className="p-3col">
+                  Con Okus-Pay, los usuarios pueden salir sin preocuparse por el teléfono o la billetera. Olvídate de depender de la batería del teléfono o la conexión a internet. Okus-Pay ofrece libertad total de pago, simplificando la experiencia del usuario.
                   </p>
                 </div>
                 {/*<!-- center --> */}
@@ -62,9 +62,9 @@ export default function FlexFeatures() {
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
                     <i className="fa-solid fa-kit-medical fa-stack-1x  dentroCirculo"></i>
                   </span>
-                  <h3 className="h3-3col mt-4">Soporte primer nivel</h3>
+                  <h3 className="h3-3col mt-4">Soporte Inmediato y Personalizado</h3>
                   <p className="p-3col">
-                  Contáctanos por email, ticket o teléfono. Siempre estaremos para vos.
+                  En Okus-Pay, nos enorgullece ofrecer un soporte excepcional. Contáctanos a través de nuestro soporte web, WhatsApp o línea telefónica. Nuestro equipo está listo para ayudarte, con un tiempo de respuesta promedio inferior a 5 minutos.
                   </p>
                 </div>
                 {/*<!-- center --> */}
@@ -76,9 +76,9 @@ export default function FlexFeatures() {
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
                     <i className="fa-solid fa-exclamation fa-stack-1x fa-inverse dentroCirculo"></i>
                   </span>
-                  <h3 className="h3-3col mt-4">Garantía de hardware</h3>
+                  <h3 className="h3-3col mt-4">Innovando desde el 2023</h3>
                   <p className="p-3col">
-                    Trabajamos con marcas de primer nivel, garantizando el optimo funcionamiento.
+                  Okus-Pay ha tomado vuelo en el mundo de las fintech desde el 2023, sirviendo a las principales empresas del sector. Aunque aún no contamos con casos de éxito registrados, estamos construyendo el futuro de los pagos biométricos.
                   </p>
                 </div>
                 {/*<!-- center --> */}
@@ -88,54 +88,17 @@ export default function FlexFeatures() {
                 <div className="center">
                   <span className="fa-stack fa-2x">
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-code fa-stack-1x fa-inverse dentroCirculo"></i>
+                    <i className="fa-solid fa-money-bill fa-stack-1x fa-inverse dentroCirculo"></i>
                   </span>
-                  <h3 className="h3-3col mt-4">Acceso administrador</h3>
+                  <h3 className="h3-3col mt-4">Libertad en la palma de tu mano</h3>
                   <p className="p-3col">
-                  Te damos acceso root o administrador para que tengas todo el control.
+                  Okus-Pay va más allá de los límites convencionales. No necesitas llevar tu teléfono ni billetera. La libertad financiera está literalmente en la palma de tu mano. Olvídate de depender de la batería del teléfono o de la conectividad a internet. Con Okus-Pay, la simplicidad se encuentra en cada transacción.
                   </p>
                 </div>
                 </div>
               </div>
           
-            <div className="row spacer">
-              <div className="col-md-4">
-                <div className="center">
-                  <span className="fa-stack fa-2x">
-                    <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-money-bill fa-stack-1x fa-inverse dentroCirculo"></i>
-                  </span>
-                  <h3 className="h3-3col mt-4">Ahorra dinero</h3>
-                  <p className="p-3col">
-                  Olvídate de comprar equipamiento y paga un único abono fijo mensual.
-                  </p>
-                </div>
-              </div>
-              <div className="col-md-4">
-                <div className="center">
-                  <span className="fa-stack fa-2x">
-                    <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-trophy fa-stack-1x fa-inverse dentroCirculo"></i>
-                  </span>
-                  <h3 className="h3-3col mt-4">Lideres en el mercado</h3>
-                  <p className="p-3col">
-                    Somos lideres en el mercado desde 1999, podes confiar en nosotros y nuestro equipo!
-                  </p>
-                </div>
-              </div>
-              <div className="col-md-4">
-                <div className="center">
-                  <span className="fa-stack fa-2x">
-                    <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-chart-simple fa-stack-1x fa-inverse dentroCirculo"></i>
-                  </span>
-                  <h3 className="h3-3col mt-4">Estado del Servicio</h3>
-                  <p className="p-3col">
-                  Cuentas con un panel web para conocer el estado de tus servicios en tiempo real.
-                  </p>
-                </div>
-              </div>
-              </div>
+            
           </div>
         </div>
       </section>
