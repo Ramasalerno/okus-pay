@@ -17,8 +17,8 @@ return (
         </div>
 
         <div className="texto">
-        <h3 className="subtitulo">Pensado para tu proyecto</h3>
-        <p className="parrafo">Con nuestro plan, obtendrás un servidor dedicado sólo para tu proyecto. No compartirás hardware con nadie más, por lo que podemos garantizar una conexión optima para tu empresa.</p>
+        <h3 className="subtitulo">Pensado para tu negocio</h3>
+        <p className="parrafo">Con el plan Okus-Pay, aseguras un servidor dedicado exclusivamente para tu plataforma de cobros. Garantizamos una conexión óptima para impulsar el éxito de tu empresa. La infraestructura robusta de Okus-Pay está diseñada para respaldar la dinámica del negocio y brindar una experiencia informática sin igual. ¡Confía en Okus-Pay para llevar tus cobros al siguiente nivel!</p>
         </div>
     </div>
     </AnimationOnScroll>
@@ -29,7 +29,7 @@ return (
     <div className="fila-carac column-reverse">
         <div className="texto">
             <h3 className="subtitulo">Actualización y seguridad</h3>
-            <p className="parrafo">El servicio incluye la actualización y aplicación de parches sobre el software pre-instalado en tu servidor, brindándole toda la seguridad y performance que tu negocio online necesita.
+            <p className="parrafo">En Okus-Pay, nuestro servicio abarca la actualización y aplicación de parches. Nos comprometemos a brindarte la máxima seguridad y rendimiento que tu negocio requiere. Con Okus-Pay, tu plataforma estará siempre al día, fortalecida contra amenazas y optimizada para un rendimiento excepcional. ¡Confía en nosotros para mantener tu operación siempre segura y en su mejor forma!
             </p>
         </div>
         <div className="imagen"><img src={"/imagenes/servicios/vector1.svg"} className="escudo" alt=""/>
