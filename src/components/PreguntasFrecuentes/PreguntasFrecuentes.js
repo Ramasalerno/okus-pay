@@ -1,6 +1,5 @@
 import React from 'react'
 import "./PreguntasFrecuentesStyle.css"
-import AccordionComponent from '../Accordion/Accordion'
 
 export const PreguntasFrecuentes = () => {
   return (
@@ -53,8 +52,6 @@ export const PreguntasFrecuentes = () => {
                             </div>
                         </div>
                         
-                        {/* <AccordionComponent/> */}
-
     </div>
   )
 }

@@ -7,6 +7,7 @@ import { PageNotFound } from './components/pages/PageNotFound/PageNotFound';
 import ScrollToTop from './components/scrollToTop/scrollToTop';
 import { SobreNosotros } from './components/pages/SobreNosotros/SobreNosotros';
 import { PreguntasFrecuentes } from './components/PreguntasFrecuentes/PreguntasFrecuentes';
+import { PregFrecuentes } from './components/PregFrecuentes/PregFrecuentes';
 
 
 function App() {
@@ -22,6 +23,8 @@ function App() {
               <Route path="/nosotros" element= {<SobreNosotros/> }/>
               <Route path="/contacto" element= {<Contacto/> }/>
               <Route path="/preguntas_frecuentes" element= {<PreguntasFrecuentes/> }/>
+              <Route path="/preguntas_frecuentes2" element= {<PregFrecuentes/> }/>
+
 
             </Routes>
         <HomeFooter/>

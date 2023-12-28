@@ -19,7 +19,6 @@ export const HomePage = () => {
         <Bienvenida/>
         <Porcentajes/>
         <Trimage/>
-
         {/* <FlexFeatures/> */}
         <InfoHome/>
         {/* <BannerBody/> */}
