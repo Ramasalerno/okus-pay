@@ -7,6 +7,7 @@ export const Carrousel = () => {
 	return (
 		<div className='imgBannerPrincipal'>
 
+
 			<Carousel fade className='noMostrarMobile'>
 
 				<Carousel.Item>
