@@ -1,0 +1,25 @@
+.ContenedorPorcentajes{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ContenedorPorcentajes img {
+    transform: scale(var(--escala, 1));
+  transition: transform 0.25s;
+}
+
+.ContenedorPorcentajes .imgcard1:hover, .imgcard2:hover, .imgcard3:hover, .imgcard4:hover{
+    --escala: 1.2;
+  cursor:pointer;
+}
+
+@media (max-width: 400px) {
+    .ContenedorPorcentajes{
+        margin-top: 30px;
+        flex-wrap: wrap;
+    }
+}

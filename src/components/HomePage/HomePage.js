@@ -9,13 +9,18 @@ import { ServiciosCard } from '../ServiciosCard/ServiciosCard';
 import { Bienvenida } from '../Bienvenida/Bienvenida';
 import { PreguntasFrecuentes } from '../PreguntasFrecuentes/PreguntasFrecuentes';
 import { PreguntasFrecBoton } from '../PreguntasFrecuentes/PreguntasFrecBoton';
+import { Porcentajes } from '../Porcentajes/Porcentajes';
+import Trimage from '../../Trimage/Trimage';
 
 export const HomePage = () => {
   return (
     <>
         <Carrousel/>
         <Bienvenida/>
-        <FlexFeatures/>
+        <Porcentajes/>
+        <Trimage/>
+
+        {/* <FlexFeatures/> */}
         <InfoHome/>
         {/* <BannerBody/> */}
         {/* <ServiciosCard/> */}

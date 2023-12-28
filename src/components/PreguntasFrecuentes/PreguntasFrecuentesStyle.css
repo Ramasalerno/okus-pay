@@ -11,22 +11,6 @@
     text-align: left;
 }
 
-/* .flexPreguntas {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.flexPreguntasTitulo {
-    margin-top: 10px;
-    text-align: center;
-    font-size: 40px;
-    color: var(--primary);
-    line-height: 48px;
-    border-bottom: 3px solid var(--secondary);
-  } */
-
   .flexPreguntas {
     display: flex;
     flex-direction: column;
