@@ -17,7 +17,7 @@
   cursor:pointer;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
     .ContenedorPorcentajes{
         margin-top: 30px;
         flex-wrap: wrap;

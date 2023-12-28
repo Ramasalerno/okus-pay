@@ -1,11 +1,12 @@
 import React from 'react'
 import Container from 'react-bootstrap/Container';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import "./trimageStyle.css"
 
 
 const Trimage = () => {
     return (
-        <Container>
+        <Container className='oculTrimage'>
             <div className="contenedorImagenesTexto d-flex flex-row mb-5">
                 <div className="imagenes d-flex flex-column">
 
