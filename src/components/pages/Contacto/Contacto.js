@@ -43,7 +43,7 @@ return (
                                 <i className="far fa-envelope"></i>
                                 <h4 className="d-inline-block">Email :
                                     <br/>
-                                    <span>info@okus-pay.com.ar</span></h4>
+                                    <span>info@okuspay.com.ar</span></h4>
                             </div>
                         </div>
                     </div>

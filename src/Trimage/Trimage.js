@@ -27,14 +27,13 @@ const Trimage = () => {
                     <h1 className='mb-5'>Como alcanzamos tus objetivos?</h1>
                     <br />
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla sunt maxime repellendus, exercitationem voluptatem obcaecati deleniti aliquam voluptas dolore! In explicabo illum dicta qui nisi quam illo alias nesciunt quasi.
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla sunt maxime repellendus, exercitationem voluptatem obcaecati deleniti aliquam voluptas dolore! In explicabo illum dicta qui nisi quam illo alias nesciunt quasi.
+                    Imagina un mundo donde tu identidad sea la llave de todo. Un mundo donde un simple gesto de la mano desbloquee un universo de posibilidades. Okuspay te lleva a este futuro, transformando tu palma en un pasaporte digital único e inconfundible. Con nuestra tecnología biométrica de vanguardia, decir adiós a las billeteras abultadas y contraseñas complejas es más sencillo que nunca. Cada transacción se convierte en una experiencia fluida y segura, gracias a la biometría de la palma.
                     </p>
                     <br/>
-
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla sunt maxime repellendus, exercitationem voluptatem obcaecati deleniti aliquam voluptas dolore! In explicabo illum dicta qui nisi quam illo alias nesciunt quasi.</p>
+                    <p>Seguridad, velocidad y comodidad son los pilares sobre los que se construye Okuspay. Tu palma es tu firma digital, una huella única que solo tú posees. Con Okuspay, puedes pagar de forma instantánea y segura dondequiera que estés, sin preocuparte por fraudes o pérdidas.</p>
                     <br/>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla sunt maxime repellendus, exercitationem voluptatem obcaecati deleniti aliquam voluptas dolore! In explicabo illum dicta qui nisi quam illo alias nesciunt quasi.</p>
+                    <p>Únete a la revolución de los pagos biométricos. Elige Okuspay y descubre una nueva forma de vivir la tecnología.
+                    </p>
                 </div>
             </div>
         </Container>

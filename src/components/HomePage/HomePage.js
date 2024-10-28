@@ -17,14 +17,14 @@ export const HomePage = () => {
     <>
         <Carrousel/>
         <Bienvenida/>
-        <Porcentajes/>
+        {/* <Porcentajes/> */}
         <Trimage/>
         {/* <FlexFeatures/> */}
         <InfoHome/>
         {/* <BannerBody/> */}
         {/* <ServiciosCard/> */}
         <BannerBodySoporte/>
-        <PreguntasFrecBoton/>
+        {/* <PreguntasFrecBoton/> */}
         {/* <PreguntasFrecuentes/> */}
         {/* <FlexMarcas/> */}
     </>
