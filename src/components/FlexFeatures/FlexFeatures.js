@@ -47,7 +47,7 @@ export default function FlexFeatures() {
                   </span>
                   <h3 className="h3-3col mt-4">Libertad Total de Pago</h3>
                   <p className="p-3col">
-                  Con Okus-Pay, los usuarios pueden salir sin preocuparse por el teléfono o la billetera. Olvídate de depender de la batería del teléfono o la conexión a internet. Okus-Pay ofrece libertad total de pago, simplificando la experiencia del usuario.
+                  Con OkusPay, los usuarios pueden salir sin preocuparse por el teléfono o la billetera. Olvídate de depender de la batería del teléfono o la conexión a internet. Okus-Pay ofrece libertad total de pago, simplificando la experiencia del usuario.
                   </p>
                 </div>
                 {/*<!-- center --> */}
@@ -64,7 +64,7 @@ export default function FlexFeatures() {
                   </span>
                   <h3 className="h3-3col mt-4">Soporte Inmediato y Personalizado</h3>
                   <p className="p-3col">
-                  En Okus-Pay, nos enorgullece ofrecer un soporte excepcional. Contáctanos a través de nuestro soporte web, WhatsApp o línea telefónica. Nuestro equipo está listo para ayudarte, con un tiempo de respuesta promedio inferior a 5 minutos.
+                  En OkusPay, nos enorgullece ofrecer un soporte excepcional. Contáctanos a través de nuestro soporte web, WhatsApp o línea telefónica. Nuestro equipo está listo para ayudarte, con un tiempo de respuesta promedio inferior a 5 minutos.
                   </p>
                 </div>
                 {/*<!-- center --> */}
@@ -78,7 +78,7 @@ export default function FlexFeatures() {
                   </span>
                   <h3 className="h3-3col mt-4">Innovando desde el 2023</h3>
                   <p className="p-3col">
-                  Okus-Pay ha tomado vuelo en el mundo de las fintech desde el 2023, sirviendo a las principales empresas del sector. Aunque aún no contamos con casos de éxito registrados, estamos construyendo el futuro de los pagos biométricos.
+                  OkusPay ha tomado vuelo en el mundo de las fintech desde el 2023, sirviendo a las principales empresas del sector. Aunque aún no contamos con casos de éxito registrados, estamos construyendo el futuro de los pagos biométricos.
                   </p>
                 </div>
                 {/*<!-- center --> */}
@@ -92,7 +92,7 @@ export default function FlexFeatures() {
                   </span>
                   <h3 className="h3-3col mt-4">Libertad en la palma de tu mano</h3>
                   <p className="p-3col">
-                  Okus-Pay va más allá de los límites convencionales. No necesitas llevar tu teléfono ni billetera. La libertad financiera está literalmente en la palma de tu mano. Olvídate de depender de la batería del teléfono o de la conectividad a internet. Con Okus-Pay, la simplicidad se encuentra en cada transacción.
+                  OkusPay va más allá de los límites convencionales. No necesitas llevar tu teléfono ni billetera. La libertad financiera está literalmente en la palma de tu mano. Olvídate de depender de la batería del teléfono o de la conectividad a internet. Con Okus-Pay, la simplicidad se encuentra en cada transacción.
                   </p>
                 </div>
                 </div>

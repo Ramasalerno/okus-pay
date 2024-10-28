@@ -22,6 +22,7 @@ export default class Barra1 extends Component {
               <Navbar.Collapse id="navbarScroll" className='colt'>
                 <Nav className="me-auto my-2 my-lg-0"style={{ height: '100%' }}>
                 <Link to="/" className='linkeado'>Home</Link>
+                <a href="#empresas" className='linkeado'>Empresas</a>
                 <Link to="/nosotros" className='linkeado'>Nosotros</Link>
                 <a href="https://okuspay.netlify.app/" className='linkeado'>Simulacion</a>
                 <Link to="/contacto" className='linkeado'>Contacto</Link>

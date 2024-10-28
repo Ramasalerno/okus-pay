@@ -37,7 +37,7 @@ return (
                                 <i className="fas fa-mobile-alt"></i>
                                 <h4 className="d-inline-block">Telefono :
                                     <br/>
-                                    <span>+54(011)6666666666</span></h4>
+                                    <span>+54(011)1135932084</span></h4>
                             </div>
                             <div className="info">
                                 <i className="far fa-envelope"></i>
