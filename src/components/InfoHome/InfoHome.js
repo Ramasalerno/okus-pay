@@ -9,7 +9,7 @@ return (
     
     <section id="caracteristicas" className="caracteristicas"><div className="width_wrap">
         
-    <div className="titulo" id='empresas'>El respaldo de la infraestructura más poderosa</div>
+    <div className="titulo" id='empresas'> El respaldo de la infraestructura más poderosa</div>
     
     <AnimationOnScroll animateIn="animate__fadeInRight">
     <div className="fila-carac" >
