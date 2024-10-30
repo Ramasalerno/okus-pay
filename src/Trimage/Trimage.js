@@ -11,7 +11,7 @@ const Trimage = () => {
                 <div className="imagenes d-flex flex-column">
 
                     <AnimationOnScroll animateIn="animate__fadeIn">
-                    <img src={"/imagenes/1_inicios.jpg"} alt="" style={{width: "100%"}}/>
+                    <img src={"/imagenes/manoPay.jpg"} alt="" style={{width: "100%"}}/>
                     </AnimationOnScroll>
 
                     <AnimationOnScroll animateIn="animate__fadeIn">
@@ -19,7 +19,7 @@ const Trimage = () => {
                     </AnimationOnScroll>
 
                     <AnimationOnScroll animateIn="animate__fadeIn">
-                    <img src={"/imagenes/3_servicios.jpg"} alt="" style={{width: "100%"}}/>
+                    <img src={"/imagenes/manoPago.jpg"} alt="" style={{width: "100%"}}/>
                     </AnimationOnScroll>
 
                 </div>
