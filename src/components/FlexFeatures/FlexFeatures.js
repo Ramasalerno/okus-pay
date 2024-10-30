@@ -1,5 +1,6 @@
 import React from "react";
 import "./flexFeatures.css"
+import { Link } from 'react-router-dom'
 
 export default function FlexFeatures() {
   return (
@@ -98,10 +99,15 @@ export default function FlexFeatures() {
                 </div>
               </div>
           
-            
+              <div>
+                <Link to="/contacto" className='buttonHomeP mb-5'>
+                    <span>Contactenos!</span>
+                </Link>
+            </div>
           </div>
         </div>
       </section>
+      
     </>
   );
 }
