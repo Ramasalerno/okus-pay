@@ -1,48 +1,58 @@
-:root {
-  --primary: #1A2A36;
+/* :root {
+  --primary: #1e201d;
   --secondary: #588CB5;
   --terciary: #2F4B60;
   --cuarto: #446B8B;
-}
+  background-color: #1e201d
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 .spacer {
-    margin-bottom: 50px;
-  }
-  .center {
-    text-align: center !important;
-  }
-  .dentroCirculo:hover {
-   color: var(--cuarto) !important;
-  }
-  
-  .circulo {
-    color: #ecf0f1;
-  }
-  .dentroCirculo {
-    color: var(--secondary) !important;
-  }
-  .p-3col{
-    color: white !important;
-  }
-  
-  .h3-3col {
-    color: var(--secondary) !important;
-    font-weight: bold;
-    font-size: 22px;
-  }
-  .p-3col {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 14px;
-  }
+  margin-bottom: 50px;
+}
 
-  .center h2 {
-    color: var(--secondary) !important;
-    font-size: 2.5em;
-    font-weight: bold;
-  }
-  
-  .bgRari {
-    background-color: var(--primary);
-  }
+.center {
+  text-align: center !important;
+}
+
+.dentroCirculo:hover {
+  color: var(--cuarto) !important;
+}
+
+.circulo {
+  color: #ecf0f1;
+}
+
+.dentroCirculo {
+  /* color: var(--secondary) !important; */
+  color: #212529;
+}
+
+.p-3col {
+  color: white !important;
+}
+
+.h3-3col {
+  /* color: var(--secondary) !important; */
+  color: #b249f8;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.p-3col {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 14px;
+}
+
+.center h2 {
+  /* color: var(--secondary) !important; */
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.bgRari {
+  background-color: var(--primary);
+}

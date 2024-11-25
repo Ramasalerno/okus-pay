@@ -9,14 +9,14 @@ export default function FlexFeatures() {
         <div className="bgRari">
           <div className="container">
             <header className="center btm-spacer">
-              <h2 className="mb-5 mt-5">¡Descubre la Revolución de Pago con Okus-Pay!</h2>
+              <h2 className="mb-5 mt-5 text-light">¡Descubre la <span style={{color:"#b249f8"}}>Revolución de Pago</span> con Okus-Pay!</h2>
             </header>
             <div className="row spacer">
               <div className="col-md-4">
                 <div className="center">
                   <span className="fa-stack fa-2x">
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-flag fa-stack-1x fa-inverse dentroCirculo "></i>
+                    <i className="fa-solid fa-flag fa-stack-1x  dentroCirculo "></i>
                   </span>
                   <h3 className="h3-3col mt-4">Tecnología Biométrica Avanzada</h3>
                   <p className="p-3col">
@@ -30,7 +30,7 @@ export default function FlexFeatures() {
                 <div className="center">
                   <span className="fa-stack fa-2x">
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-shield fa-stack-1x fa-inverse dentroCirculo"></i>
+                    <i className="fa-solid fa-shield fa-stack-1x  dentroCirculo"></i>
                   </span>
                   <h3 className="h3-3col mt-4">Seguridad sin Compromisos</h3>
                   <p className="p-3col">
@@ -44,7 +44,7 @@ export default function FlexFeatures() {
                 <div className="center">
                   <span className="fa-stack fa-2x">
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-rocket fa-stack-1x fa-inverse dentroCirculo"></i>
+                    <i className="fa-solid fa-rocket fa-stack-1x  dentroCirculo"></i>
                   </span>
                   <h3 className="h3-3col mt-4">Libertad Total de Pago</h3>
                   <p className="p-3col">
@@ -75,7 +75,7 @@ export default function FlexFeatures() {
                 <div className="center">
                   <span className="fa-stack fa-2x">
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-exclamation fa-stack-1x fa-inverse dentroCirculo"></i>
+                    <i className="fa-solid fa-exclamation fa-stack-1x  dentroCirculo"></i>
                   </span>
                   <h3 className="h3-3col mt-4">Innovando desde el 2023</h3>
                   <p className="p-3col">
@@ -89,7 +89,7 @@ export default function FlexFeatures() {
                 <div className="center">
                   <span className="fa-stack fa-2x">
                     <i className="fa-solid fa-circle fa-stack-2x circulo fa-beat-fade"></i>
-                    <i className="fa-solid fa-money-bill fa-stack-1x fa-inverse dentroCirculo"></i>
+                    <i className="fa-solid fa-money-bill fa-stack-1x  dentroCirculo"></i>
                   </span>
                   <h3 className="h3-3col mt-4">Libertad en la palma de tu mano</h3>
                   <p className="p-3col">

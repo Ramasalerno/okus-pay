@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Raleway:wght@600&display=swap');
+
+body {
+    /* background-color: #1e201d; */
+}
+
+:root {
+    /* background-color: #1e201d; */
+    --primary: #1e201d;
+    --secondary: #588CB5;
+    --terciary: #2F4B60;
+    --cuarto: #446B8B;
+    --violeta: #b249f8;
+    --light: #fff
+}

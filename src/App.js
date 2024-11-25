@@ -8,6 +8,7 @@ import ScrollToTop from './components/scrollToTop/scrollToTop';
 import { SobreNosotros } from './components/pages/SobreNosotros/SobreNosotros';
 import { PreguntasFrecuentes } from './components/PreguntasFrecuentes/PreguntasFrecuentes';
 import { PregFrecuentes } from './components/PregFrecuentes/PregFrecuentes';
+import './App.css'
 
 
 function App() {

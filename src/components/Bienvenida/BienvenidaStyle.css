@@ -1,11 +1,15 @@
+:root {
+    --dark: #1e201d;
+}
+
 .titulosPrincipales h1 {
     text-align: center;
-    color: var(--secondary);
+    color: var(--dark);
 }
 
 .titulosPrincipales h2 {
     text-align: center;
-    color: var(--primary);
+    color: var(--dark);
 }
 
 .titulosPrincipales a {
@@ -14,6 +18,7 @@
 
 .titulosPrincipales {
     text-align: center;
+    color: var(--dark);
 }
 
 .buttonHomeP {
@@ -32,9 +37,9 @@
     text-decoration: none;
     transition: 0.3s ease all;
     z-index: 1;
-   }
-   
-   .buttonHomeP:before {
+}
+
+.buttonHomeP:before {
     transition: 0.5s all ease;
     position: absolute;
     top: 0;
@@ -45,19 +50,21 @@
     content: '';
     background-color: #FF0072;
     z-index: -1;
-   }
-   
-   .buttonHomeP:hover, .buttonHomeP:focus {
+}
+
+.buttonHomeP:hover,
+.buttonHomeP:focus {
     color: white;
-   }
-   
-   .buttonHomeP:hover:before, .buttonHomeP:focus:before {
+}
+
+.buttonHomeP:hover:before,
+.buttonHomeP:focus:before {
     transition: 0.5s all ease;
     left: 0;
     right: 0;
     opacity: 1;
-   }
-   
-   .buttonHomeP:active {
+}
+
+.buttonHomeP:active {
     transform: scale(0.9);
-   }
+}
