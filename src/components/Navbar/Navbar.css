@@ -110,7 +110,7 @@ body.swal2-shown>[aria-hidden="true"] {
 }
 
 .barra {
-  background-color: var(--primary) !important;
+  background-color: #00000f !important;
   border-bottom: none;
 }
 
