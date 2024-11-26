@@ -14,7 +14,7 @@ export default class Barra1 extends Component {
 
               <Navbar.Brand href="/">
                 <Link to="/">
-                <img src={process.env.PUBLIC_URL + "/imagenes/imagenes-logo/logo.png"} alt="Logo Okus-Pay" className='setLogo'></img>
+                <img src={process.env.PUBLIC_URL + "/imagenes/imagenes-logo/logoSinFondo-blanco.png"} alt="Logo Okus-Pay" className='setLogo'></img>
                 </Link>
               </Navbar.Brand>
 

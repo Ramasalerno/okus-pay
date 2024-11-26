@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Raleway:wght@600&display=swap');
 
 .setLogo {
-  width: 10% !important;
+  width: 80% !important;
 }
 
 .linkeado {
@@ -75,10 +75,6 @@
 
 .element.style {
   height: 100vh;
-}
-
-.setLogo {
-  width: 50%;
 }
 
 
