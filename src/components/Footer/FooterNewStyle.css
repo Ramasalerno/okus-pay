@@ -2,7 +2,7 @@
 
 footer { 
 	width:100%; 
-	background-color:var(--primary); 
+	background-color:#242424; 
 	min-height:250px; 
 	padding:10px 0px 25px 0px ;
 }
@@ -41,7 +41,7 @@ footer p {
 	text-decoration:none;
 }
 
-.footer_ul_amrc li a:hover{ color:var(--secondary);}
+/* .footer_ul_amrc li a:hover{ color:var(--secondary);} */
 
 .fleft { float:left;}
 
@@ -91,5 +91,5 @@ footer p {
   }
 
 .pt2 {
-	color: var(--secondary) !important;
+	color: var(--violeta) !important;
 }

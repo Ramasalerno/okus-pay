@@ -1,5 +1,5 @@
 .postFooter {
-    background-color: var(--secondary);
+    background-color: var(--primary);
     color: var(--primary);
     display: flex;
     justify-content: space-around;
@@ -12,6 +12,6 @@
 }
 
 .footerFinal {
-    background-color: var(--secondary);
+    background-color: var(--violeta);
     width: 100%;
 }

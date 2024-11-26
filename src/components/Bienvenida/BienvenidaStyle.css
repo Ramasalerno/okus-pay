@@ -4,12 +4,12 @@
 
 .titulosPrincipales h1 {
     text-align: center;
-    color: var(--dark);
+    /* color: var(--dark); */
 }
 
 .titulosPrincipales h2 {
     text-align: center;
-    color: var(--dark);
+    /* color: var(--dark); */
 }
 
 .titulosPrincipales a {
@@ -18,7 +18,7 @@
 
 .titulosPrincipales {
     text-align: center;
-    color: var(--dark);
+    /* color: var(--dark); */
 }
 
 .buttonHomeP {
@@ -29,11 +29,11 @@
     text-align: center;
     font-weight: bold;
     padding: 0.7em 2em;
-    border: 3px solid #FF0072;
+    border: 3px solid #ffea00;
     border-radius: 2px;
     position: relative;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.1);
-    color: #FF0072;
+    color: #ffea00;
     text-decoration: none;
     transition: 0.3s ease all;
     z-index: 1;
@@ -48,7 +48,7 @@
     bottom: 0;
     opacity: 0;
     content: '';
-    background-color: #FF0072;
+    background-color: #ffea00;
     z-index: -1;
 }
 
