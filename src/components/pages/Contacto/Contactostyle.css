@@ -7,10 +7,11 @@
   font-weight: 700;
   margin: 0;
   padding: 0;
+  color: #daa520;
 }
 
 .contact .heading h2 span {
-  color: var(--primary)
+  color: #daa520;
 }
 
 .contact .heading p {
@@ -44,6 +45,7 @@
 .contact .title h3 {
   font-size: 18px;
   font-weight: 600;
+  color: #daa520;
 }
 
 .contact .title p {
@@ -70,6 +72,7 @@
 .info h4 {
   font-size: 13px;
   line-height: 1.4;
+  color: #daa520;
 }
 
 .info h4 span {
