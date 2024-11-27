@@ -53,13 +53,22 @@ export const Carrousel = () => {
 
 				return newImages;
 			});
-		}, 2000);
+		}, 3000);
 
 		return () => clearInterval(interval);
 	}, []);
 
 	return (
 		<div className="grid-container">
+			<h1 className='text-light text-center text-uppercase my-5 fw-bold'
+				style={{
+					fontSize: "3em",
+					position: "absolute",
+					right: "0px",
+					left: "0px",
+					top: "300px",
+					zIndex: "100000"
+				}}>Tecnología biométrica</h1>
 			{images.map((img, index) => (
 				<div
 					key={index}
@@ -67,6 +76,8 @@ export const Carrousel = () => {
 					style={{
 						transform: `translate(${positions[index].x}%, ${positions[index].y}%)`,
 						transition: 'transform 1s ease-in-out',
+						// paddingBottom: index < 2 ? '15px' : '0', // Fila superior
+						// paddingTop: index >= 2 ? '15px' : '0',   // Fila inferior
 					}}
 				>
 					<img src={img} alt={`Imagen ${index}`} />
