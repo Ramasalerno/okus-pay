@@ -24,7 +24,7 @@ a:active {
 a,
 a:active,
 a:focus {
-    color: #6f6f6f;
+    color: #daa520;
     text-decoration: none;
     transition-timing-function: ease-in-out;
     -ms-transition-timing-function: ease-in-out;
@@ -39,16 +39,18 @@ a:focus {
 }
 
 .tituloSobreNosotros{
-    color: var(--terciary);
+    color: #daa520;
     font-size: 1.5rem;
 }
 
 .tituloSobreNosotros{
-    color: var(--terciary) !important;
+    color: #daa520;
+
 }
 
 .boldSobreNosotros {
-    color: var(--terciary);
+    color: #daa520;
+
 }
 
 ul {
@@ -145,7 +147,7 @@ top: 0px;
 display: block;
 font-size: 18px;
 padding: 0px;
-color: var(--secondary);
+color: #daa520;
 font-weight: 600;
 font-style: normal;
 font-variant: normal;
@@ -169,7 +171,7 @@ cursor: pointer;
     position:relative;
     font-size:14px;
     line-height:26px;
-    color: #222222;
+    color: #daa520;
     font-weight:400;
     padding-left:30px;
     margin-top: 10px;

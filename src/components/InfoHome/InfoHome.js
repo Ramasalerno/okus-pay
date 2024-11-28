@@ -9,11 +9,11 @@ export const InfoHome = () => {
 
             <section id="caracteristicas" className="caracteristicas"><div className="width_wrap">
 
-                <div className="titulo text-light" style={{textAlign:"left", width:"75%"}} id='empresas'> El respaldo de la infraestructura más poderosa</div>
+                <div className="titulo text-light" style={{textAlign:"left", width:"75%"}} id='empresas'> El respaldo de la infraestructura  <span style={{color:"#b249f8"}}>más poderosa</span></div>
 
                 <AnimationOnScroll animateIn="animate__fadeInRight">
                     <div className="fila-carac" >
-                        <div className="imagen"><img src={"/imagenes/servicios/vector1.svg"} className="exclusivo" alt="" />
+                        <div className="imagen"><img src={"/imagenes/servicios/sliderImgEntr.jpg"} className="exclusivo" alt="" />
                         </div>
 
                         <div className="texto text-light" >
@@ -32,7 +32,7 @@ export const InfoHome = () => {
                             <p className="parrafo">En OkusPay, nuestro servicio abarca la actualización y aplicación de parches. Nos comprometemos a brindarte la máxima seguridad y rendimiento que tu negocio requiere. Con Okus-Pay, tu plataforma estará siempre al día, fortalecida contra amenazas y optimizada para un rendimiento excepcional. ¡Confía en nosotros para mantener tu operación siempre segura y en su mejor forma!
                             </p>
                         </div>
-                        <div className="imagen"><img src={"/imagenes/servicios/vector1.svg"} className="escudo" alt="" />
+                        <div className="imagen"><img src={"/imagenes/servicios/sliderImgEntr.jpg"} className="escudo" alt="" />
                         </div>
                     </div>
                 </AnimationOnScroll>

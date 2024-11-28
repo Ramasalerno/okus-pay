@@ -24,7 +24,8 @@ const Trimage = () => {
 
                 </div>
                 <div className='text text-justify text-light d-flex flex-column justify-content-center' style={{padding: "0px 80px", width: "100%", fontSize: "20px"}}>
-                    <h1 className='mb-5 text-left'>Como alcanzamos tus objetivos?</h1>
+                    <h1 className="mb-5 mt-5 text-light titleobj">¿Como alcanzamos tus <span style={{color:"#b249f8"}}>objetivos</span>?</h1>
+
                     <br />
                     <p>
                     Imagina un mundo donde tu identidad sea la llave de todo. Un mundo donde un simple gesto de la mano desbloquee un universo de posibilidades. Okuspay te lleva a este futuro, transformando tu palma en un pasaporte digital único e inconfundible. Con nuestra tecnología biométrica de vanguardia, decir adiós a las billeteras abultadas y contraseñas complejas es más sencillo que nunca. Cada transacción se convierte en una experiencia fluida y segura, gracias a la biometría de la palma.

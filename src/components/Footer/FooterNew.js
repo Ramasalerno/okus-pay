@@ -11,13 +11,13 @@ export const FooterNew = () => {
                 <div className="row rowFooter">
 
                     <div className=" col-sm-4 col-md col-sm-4  col-12 col">
-                        <img src={process.env.PUBLIC_URL + "/imagenes/imagenes-logo/logo-okuspay.png"} alt="Logo OkusPay" className='logoFooterNew'></img>
+                        <img src={process.env.PUBLIC_URL + "/imagenes/imagenes-logo/logoSinFondo-blanco.png"} alt="Logo OkusPay" className='logoFooterNew'></img>
                     </div>
                     <div className=" col-sm-4 col-md col-sm-4  col-12 col">
                         <h5 className="headin5_amrc col_white_amrc pt2">Contactanos</h5>
                         <p><i className="fa fa-location-arrow"></i> Buenos Aires - Argentina </p>
                         <p><i className="fa fa-phone"></i>  +54(011)1135932084 </p>
-                        <p><i className="fa fa fa-envelope"></i> <a href="mailto:info@okuspay.com.ar" className='mailFooter'>info@okuspay.com.ar</a></p>
+                        <p><i className="fa fa fa-envelope"></i> <a href="mailto:okuspayinfo@gmail.com" className='mailFooter'>okuspayinfo@gmail.com</a></p>
                     </div>
 
 

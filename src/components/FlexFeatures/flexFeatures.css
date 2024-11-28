@@ -54,5 +54,11 @@
 }
 
 .bgRari {
-  background-color: var(--primary);
+  /* background-color: var(--primary); */
+  background-color: rgba(255, 255, 255, 0.075); /* Color blanco con opacidad */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    backdrop-filter: blur(10px); /* Desenfoque del fondo */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.747); /* Sombra para dar profundidad */
+    border: 1px solid rgba(255, 255, 255, 0.5); /* Borde blanco semitransparente */
 }
