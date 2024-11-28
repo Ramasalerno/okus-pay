@@ -60,9 +60,11 @@ export const Carrousel = () => {
 
 	return (
 		<div className="grid-container">
-			<h1 className='text-light text-center text-uppercase my-5 fw-bold'
+			<h1 className='text-center text-uppercase my-5 fw-bold'
 				style={{
-					fontSize: "3em",
+					fontSize: "2.5em",
+					fontWeight: "bold",
+					color: "#daa520",
 					position: "absolute",
 					right: "0px",
 					left: "0px",
