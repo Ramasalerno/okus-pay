@@ -78,8 +78,6 @@ export const Carrousel = () => {
 					style={{
 						transform: `translate(${positions[index].x}%, ${positions[index].y}%)`,
 						transition: 'transform 1s ease-in-out',
-						// paddingBottom: index < 2 ? '15px' : '0', // Fila superior
-						// paddingTop: index >= 2 ? '15px' : '0',   // Fila inferior
 					}}
 				>
 					<img src={img} alt={`Imagen ${index}`} />
